@@ -1,0 +1,17 @@
+{
+  "name": "dataswriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "write": "^2.0.0",
+    "write-json": "^3.0.1"
+  }
+}
